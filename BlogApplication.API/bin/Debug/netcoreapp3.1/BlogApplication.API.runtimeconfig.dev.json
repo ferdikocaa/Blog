@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ferdi.koca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ferdi.koca\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\bin\Debug\netcoreapp3.1\BlogApplication.Core.deps.json
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\bin\Debug\netcoreapp3.1\BlogApplication.Core.dll
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\bin\Debug\netcoreapp3.1\BlogApplication.Core.pdb
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.AssemblyInfoInputs.cache
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.AssemblyInfo.cs
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.dll
+C:\Users\ferdikocaa\source\repos\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.pdb
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\bin\Debug\netcoreapp3.1\BlogApplication.Core.deps.json
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\bin\Debug\netcoreapp3.1\BlogApplication.Core.dll
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\bin\Debug\netcoreapp3.1\BlogApplication.Core.pdb
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.csprojAssemblyReference.cache
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.AssemblyInfoInputs.cache
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.AssemblyInfo.cs
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.dll
+C:\Users\ferdi.koca\Desktop\BlogApplication\Blog.Core\obj\Debug\netcoreapp3.1\BlogApplication.Core.pdb

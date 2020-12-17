@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Data\\BlogApplication.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj",
+        "projectName": "BlogApplication.Core",
+        "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj",
+        "packagesPath": "C:\\Users\\ferdi.koca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferdi.koca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Contracts\\BlogApplication.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Contracts\\BlogApplication.Contracts.csproj",
+        "projectName": "BlogApplication.Contracts",
+        "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Contracts\\BlogApplication.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ferdi.koca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferdi.koca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj"
+              },
+              "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj": {
+                "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Data\\BlogApplication.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Data\\BlogApplication.Data.csproj",
+        "projectName": "BlogApplication.Data",
+        "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Data\\BlogApplication.Data.csproj",
+        "packagesPath": "C:\\Users\\ferdi.koca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferdi.koca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj"
+              },
+              "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Contracts\\BlogApplication.Contracts.csproj": {
+                "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Contracts\\BlogApplication.Contracts.csproj"
+              },
+              "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj": {
+                "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj",
+        "projectName": "BlogApplication.Entities",
+        "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\BlogApplication.Entities.csproj",
+        "packagesPath": "C:\\Users\\ferdi.koca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\BlogApplication.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferdi.koca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\ferdi.koca\\Desktop\\BlogApplication\\Blog.Core\\BlogApplication.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
