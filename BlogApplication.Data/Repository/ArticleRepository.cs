@@ -12,7 +12,7 @@ namespace BlogApplication.Data.Repository
         public string Message(string _message)
         {
              return _message;
-        }
+        } 
 
         public string Test()
         {
